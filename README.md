@@ -11,10 +11,10 @@
 
 
 ![gfranciss GitHub stats](https://github-readme-stats.vercel.app/api?username=gfranciss&show_icons=&rank_icon=github&theme=transparent)
+[![gfrancis's 42 stats](https://badge42.vercel.app/api/v2/clkwhdoqe007908lafztivw27/stats?cursusId=21&coalitionId=110)](https://github.com/JaeSeoKim/badge42)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfranciss&layout=compact&theme=transparent)
 
 ## Technologies I use in my routine
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
