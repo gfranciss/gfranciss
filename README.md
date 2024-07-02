@@ -1,17 +1,14 @@
 
 ### Hi 👋 I'm Gabriel Francisco Oliveira
 
-- I'm 21 years old
+- I'm 22 years old
 - I live in Portugal
-- Student at 42Lisbon
-- Studing System Analysis and Development at Unigran
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-francisco-204a241b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_francisco70/)
 
 
 ![gfranciss GitHub stats](https://github-readme-stats.vercel.app/api?username=gfranciss&show_icons=&rank_icon=github&theme=transparent)
-[![gfrancis's 42 stats](https://badge42.vercel.app/api/v2/clkwhdoqe007908lafztivw27/stats?cursusId=21&coalitionId=290)](https://github.com/JaeSeoKim/badge42)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfranciss&layout=compact&theme=transparent)
 
 ## Technologies I use in my routine
